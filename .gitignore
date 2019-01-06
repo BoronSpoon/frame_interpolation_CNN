@@ -120,9 +120,11 @@ dmypy.json
 #datasets
 *.npy
 *.pickle
+coil-20-proc/*
 #models
 *.h5
 #misc
 cnn_*
 dataset_maker_*
 zero*
+model_*
